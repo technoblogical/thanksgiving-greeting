@@ -1,4 +1,4 @@
-# thanksgivingScript
+# thanksgiving-greeting
 _Some jQuery that displays a message on a webpage if it's Thanksgiving.<br/>
 by <a href='https://plus.google.com/104536213394512642005?rel=author'>Chris Walker</a><br/>
 
